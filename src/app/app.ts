@@ -13,7 +13,8 @@ export class App {
   selectedRadio: string = 'opt1';
 
   // 2. Checkbox
-  isChecked: boolean = false;
+  isChecked1: boolean = false;
+  isChecked2: boolean = false;
 
   // 3. Text input
   textValue: string = '';
